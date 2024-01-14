@@ -3,34 +3,25 @@ const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.pre
 const document = doc[Math.floor(Math.random() * doc.length)];
 const text = `*╭───── • ◆ • ─────┅┅┄┄*
 
-   *🍡 ᴏᴡɴᴇʀ: ♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑࿐⛦ wa.me/573244488043*
-
-   *🍂 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 𝟷:*
-
-   *† 𝑀𝑐𝐹𝑙𝑦 † wa.me/5492216804640*
-
-   *🍂 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 2:*
-
-   *༒𝙑𝙄𝘾𝙏𝙊𝙍_𝘽𝙄𝙕𝙀𝙍𝘼𝙋༒ wa.me/59897758548*
-   
+   *🍡 ᴏᴡɴᴇʀ: kenn wa.me/51902247905*  
  *╰───── • ◆ • ─────┅┅┄┄*  `.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/WorkCwp/Criwilop-Bot-MD`},
+    'document': {url: `https://github.com/kennx/onyxbf`},
     'mimetype': `application/${document}`,
-    'fileName': `♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑𝑩𝒐𝒕-𝑴𝑫࿐⛦`,
+    'fileName': `𝗢𝗡𝗬𝗫`,
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/WorkCwp/Criwilop-Bot-MD',
+        'mediaUrl': 'https://github.com/kennx/onyxbf',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': 'ᴏᴡɴᴇʀ',
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://m.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs'}},
+        'sourceUrl': 'https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
