@@ -24,8 +24,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const info = `
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 ╠
-╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑࿐⛦*
-╠➥ [#️⃣] 𝙽𝚄𝙼𝙴𝚁𝙾: *+573244488044*
+╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *𝗸𝗲𝗻𝗻*
+╠➥ [#️⃣] 𝙽𝚄𝙼𝙴𝚁𝙾: *+51 902 247 905*
 ╠➥ [🎳] 𝙿𝚁𝙴𝙵𝙸𝙹𝙾: *${usedPrefix}*
 ╠➥ [🔐] 𝙲𝙷𝙰𝚃𝚂 𝙿𝚁𝙸𝚅𝙰𝙳𝙾𝚂: *${chats.length - groups.length}*
 ╠➥ [🦜] 𝙲𝙷𝙰𝚃𝚂 𝙳𝙴 𝙶𝚁𝚄𝙿𝙾𝚂: *${groups.length}* 
@@ -43,7 +43,7 @@ const handler = async (m, { conn, usedPrefix }) => {
 ╠➥ [👨‍🦯] 𝚅𝙴𝙻𝙾𝙲𝙸𝙳𝙰𝙳: 
 ╠  *${speed} ms* 
 ╠
-╠═〘 ♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑࿐⛦ 〙 ═
+╠═〘𝗢𝗡𝗬𝗫〙 ═
 `.trim();
   const doc = [
     "pdf",
@@ -54,22 +54,22 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/WorkCwp/Criwilop-Bot-MD` },
+    document: { url: `https://github.com/kennby/onyxb` },
     mimetype: `application/${document}`,
-    fileName: `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
+    fileName: `「  𝗢𝗡𝗬𝗫 」`,
     fileLength: 99999999999999,
     pageCount: 200,
     contextInfo: {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/WorkCwp/Criwilop-Bot-MD",
+        mediaUrl: "https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v",
         mediaType: 2,
         previewType: "pdf",
-        title: "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ",
+        title: "𝗼𝗻𝘆𝘅 𝗯𝗼𝘁",
         body: wm,
         thumbnail: imagen1,
-        sourceUrl: "https://m.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs",
+        sourceUrl: "https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v",
       },
     },
     caption: info,
