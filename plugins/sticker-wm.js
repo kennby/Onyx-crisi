@@ -15,7 +15,7 @@ const handler = async (m, {conn, text}) => {
     if (Buffer.isBuffer(e)) stiker = e;
   } finally {
     if (stiker) conn.sendFile(m.chat, stiker, 'wm.webp', '', m, false, {asSticker: true});
-    else throw '*⚠️ ᴀʟɢᴏ ғᴀʟʟᴏ, ᴘᴏʀғᴀᴠᴏʀ ɪɴᴛᴇɴᴛᴀ ᴅᴇ ɴᴜᴇᴠᴏ, sɪ ᴇʟ ᴇʀʀᴏʀ ᴘᴇʀsɪsᴛᴇ ᴄᴏᴍᴜɴɪᴄᴀʀsᴇ ᴄᴏɴ ᴍɪ ᴄʀᴇᴀᴅᴏʀ *wa.me/573244488053*';
+    else throw '*⚠️ ᴀʟɢᴏ ғᴀʟʟᴏ, ᴘᴏʀғᴀᴠᴏʀ ɪɴᴛᴇɴᴛᴀ ᴅᴇ ɴᴜᴇᴠᴏ, sɪ ᴇʟ ᴇʀʀᴏʀ ᴘᴇʀsɪsᴛᴇ ᴄᴏᴍᴜɴɪᴄᴀʀsᴇ ᴄᴏɴ ᴍɪ ᴄʀᴇᴀᴅᴏʀ *wa.me/51902247905*';
   }
 };
 handler.help = ['wm <packname>|<author>'];
