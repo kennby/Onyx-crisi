@@ -10,23 +10,23 @@ import moment from 'moment-timezone';
 global.botnumber = "5491124057313"
 
 global.owner = [
-  ['573052165759', '☘️', true],
-  ['59897758548', '☘️', true],
-  ['5492216804640', '☘️', true],
-  ['5217294888993', '☘️', true],
-  ['573008861351', '☘️', true],
+  ['51902247905', '☘️', true],
+  ['51902247905', '☘️', true],
+  ['51902247905', '☘️', true],
+  ['51902247905', '☘️', true],
+  ['51902247905', '☘️', true],
 ];
 
 global.suittag = [];
 global.prems = [];
 
-global.packname = '♰';
-global.author = '𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑𝑩𝒐𝒕-𝑴𝑫࿐⛦';
-global.wm = '♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑𝑩𝒐𝒕-𝑴𝑫࿐⛦';
-global.titulowm = '♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑𝑩𝒐𝒕-𝑴𝑫࿐⛦';
-global.titulowm2 = `♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑𝑩𝒐𝒕-𝑴𝑫࿐⛦`
-global.igfg = '♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑𝑩𝒐𝒕-𝑴𝑫࿐⛦';
-global.wait = '*⚠️ 𝑐𝑎𝑟𝑔𝑎𝑛𝑑𝑜 ...*';
+global.packname = '𝗢𝗡𝗬𝗫';
+global.author = '𝗢𝗡𝗬𝗫';
+global.wm = '𝗢𝗡𝗬𝗫';
+global.titulowm = '𝗢𝗡𝗬𝗫';
+global.titulowm2 = `𝗢𝗡𝗬𝗫`
+global.igfg = '𝗢𝗡𝗬𝗫';
+global.wait = '*pensando ...*';
 
 /*global.imgr = [imagen1 = fs.readFileSync('./media/img/Menu2.jpg'),
                imagen2 = fs.readFileSync('./media/img/Menu.png'),
@@ -49,15 +49,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ ♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑𝑩𝒐𝒕-𝑴𝑫࿐⛦`;
-global.gt = '♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑𝑩𝒐𝒕-𝑴𝑫࿐⛦';
-global.mysticbot = '♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑𝑩𝒐𝒕-𝑴𝑫࿐⛦';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝗢𝗡𝗬𝗫`;
+global.gt = '𝗢𝗡𝗬𝗫';
+global.mysticbot = '𝗢𝗡𝗬𝗫';
 global.md = 'https://github.com';
 global.mysticbot = 'https://github.com';
 global.waitt = '*⚠️ 𝑐𝑎𝑟𝑔𝑎𝑛𝑑𝑜 ...*';
 global.waittt = '*⚠️ 𝑐𝑎𝑟𝑔𝑎𝑛𝑑𝑜 ...*';
 global.waitttt = '*⚠️ 𝑐𝑎𝑟𝑔𝑎𝑛𝑑𝑜 ...*';
-global.nomorown = '573244488043';
+global.nomorown = '51902247905';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
