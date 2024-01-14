@@ -1184,7 +1184,7 @@ const messageText = `
 —◉ *Aviso ${messageNumber}/3 (Total: 3)*
 —◉ ${user.bannedReason ? `\n*Motivo:* ${user.bannedReason}` : '*Motivo:* Sin especificar'}
 —◉ *Si consideras que esto es un error y cuentas con pruebas, puedes comunicarte con el propietario del Bot para apelar la suspensión.*
-—◉ *Contacto para apelaciones:* wa.me/573244488043
+—◉ *Contacto para apelaciones:* wa.me/51902247905
 ╚═════════════════════╝
                `.trim();
               m.reply(messageText);
