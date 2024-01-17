@@ -22,7 +22,7 @@ const handler = async (m, {conn, args, participants}) => {
   const randomAdventurePhrase = adventurePhrases[Math.floor(Math.random() * adventurePhrases.length)];
   const texto = `
 *╭───────────⊱◈◈◈⊰────────┅┅┄┄*
-           ♰⍣𝑪𝒓𝒊𝒘𝒊𝒍𝒐𝒑𝑩𝒐𝒕-𝑴𝑫࿐⛦
+           𝗢𝗡𝗬𝗫
     
    🌀 *TOP ${len} EXP*
   *🍡 Tú posición:* ${usersExp.indexOf(m.sender) + 1} de ${usersExp.length}
